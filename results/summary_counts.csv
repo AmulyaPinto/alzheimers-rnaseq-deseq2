@@ -1,0 +1,7 @@
+"measure","value"
+"Samples: Alzheimers",39
+"Samples: Healthy",8
+"Genes tested (after filtering)",18286
+"Significant genes (adj. p < 0.05)",382
+"Upregulated in AD (adj. p < 0.05, log2FC > 1)",203
+"Downregulated in AD (adj. p < 0.05, log2FC < -1)",10
